@@ -5,6 +5,21 @@ This repository contains a full-stack application for configuring AI Agents, con
 - Frontend: React app for creating agents, connecting data sources, and managing article generation and viewing
 - Backend: Django REST API for managing organizations, agent instances, data sources, and articles
 
+#homescreen
+![image alt](https://github.com/kaligatlayaswanth/agent-setup-frontend-assign/blob/ac019baec6ae857fc91ad859ecdbdd24cf409b44/screen1.png)
+
+#select organization
+![image alt](https://github.com/kaligatlayaswanth/agent-setup-frontend-assign/blob/ac019baec6ae857fc91ad859ecdbdd24cf409b44/screen2.png)
+
+#select agentinstance
+![image alt](https://github.com/kaligatlayaswanth/agent-setup-frontend-assign/blob/ac019baec6ae857fc91ad859ecdbdd24cf409b44/screen3.png)
+
+#upload or select datasource
+![image alt](https://github.com/kaligatlayaswanth/agent-setup-frontend-assign/blob/ac019baec6ae857fc91ad859ecdbdd24cf409b44/screen4.png)
+
+#generate articles
+![image alt](https://github.com/kaligatlayaswanth/agent-setup-frontend-assign/blob/ac019baec6ae857fc91ad859ecdbdd24cf409b44/screen5.png)
+
 ### Key Features
 - Guided agent creation flow with progress stepper
 - Connect existing workspace data sources and manage connected sources
